@@ -5,7 +5,7 @@ get:
 consumes: 
   -multipart/form-data
 parameters:
-  - name: file
+  - name: data_file
     in: formData
     required: true
     type: file
