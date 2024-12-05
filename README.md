@@ -3,7 +3,7 @@ API will be used to clean tweets and saved to database automatically. <br>
 API will receive two endpoints both text and file. Text is cleaned by typing the sentence on the UI, however, for file, after uploding the file, column having column name **Tweet** will be cleaned, cencored, and subsitute with respective word. <br> <br>
 In order to get the whole process, please find on the architecture <br>
 ## System Architecture
-
+https://github.com/hariyantods/Binar_Bootcamp_Data_Science_Gold_Challenge/blob/8c95eb431a002afd35b17c02e28fa3b2457a2a71/workflow.png
 
 ## File Explanation
 1. app.py : the main program for cleaning text and file
