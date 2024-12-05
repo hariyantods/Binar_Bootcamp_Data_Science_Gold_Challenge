@@ -17,8 +17,8 @@ Result of the cleaned data will be represented by Raw_text and Clean_text
 ### 1. Text clean
 The abusive words will be cencored with *** and non-standarized words will be subsituted with standarized one
 <br>
-<img width="1387" alt="image" src="https://user-images.githubusercontent.com/26571248/203695909-c39dee49-da0a-4f82-9969-f96347fab51c.png">
+![image_alt](https://github.com/hariyantods/Data-Science-Wave-03/blob/07bb12395b4131918f519dff53cdef5e3e38d7d8/text.png)
 ### 2. File clean
 The result is the same with the text, the difference is only from the input file which is uploaded file.
 <br>
-<img width="1382" alt="image" src="https://user-images.githubusercontent.com/26571248/203696244-fb4fff44-b479-44ed-8f5a-b8255581d2a9.png">
+![image_alt](https://github.com/hariyantods/Data-Science-Wave-03/blob/07bb12395b4131918f519dff53cdef5e3e38d7d8/file.png)
